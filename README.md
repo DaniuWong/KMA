@@ -42,11 +42,11 @@ Put  defined dataPara.mat file as below into the 'input' folder
 
 ​	${Para.betaSK}$ $--$ Vessel $s$ docks at berth $k$.
 
-​	${ Para.thetaSM}$ $--$ Vessel $s$ executes task $m$.
+​	${Para.thetaSM}$ $--$ Vessel $s$ executes task $m$.
 
-​	$ Para.SMset $ $--$ Set of tasks executed by vessels.
+​	$Para.SMset$ $--$ Set of tasks executed by vessels.
 
-​	${ Para.gammaMP}$ $--$ Accessibility between ship-loading task $m$ and stockpile position $p$.
+​	${Para.gammaMP}$ $--$ Accessibility between ship-loading task $m$ and stockpile position $p$.
 
 ​	${Para.lambdaUR}$ $--$ Accessibility between reclaiming line $u$ and reclaimer $r$.
 
@@ -70,7 +70,7 @@ Put  defined dataPara.mat file as below into the 'input' folder
 
 ​	${Para.t\_arr}$ $--$ Arrival time at port of vessel $s$.
 
-​	$Para.t\_tr $ $--$ Turnaround time of vessel $s$.
+​	$Para.t\_tr$ $--$ Turnaround time of vessel $s$.
 
 ​	$Para.t\_un$ $--$ Casting-off time of vessel $s$.
 
