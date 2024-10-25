@@ -52,7 +52,7 @@ Put  defined dataPara.mat file as below into the 'input' folder
 
 ​	${Para.lambdaURset}$ $--$ Set of reclaimers available on each reclaiming line.
 
- 	$Para.alphaUP$ $--$ Accessibility between reclaiming line $u$ and stockpile position $p$. 
+ $Para.alphaUP$ $--$ Accessibility between reclaiming line $u$ and stockpile position $p$. 
 
 ​	$alphaUPset$ $--$ Set of stockpiles available on each reclaiming line.
 
@@ -60,23 +60,23 @@ Put  defined dataPara.mat file as below into the 'input' folder
 
 ​	$Para.alphaWKset$ $--$ Set of ship loading lines for each berth.
 
- 	$ Para.alphaUVW$ $--$ Accessibility among reclaiming line $u$, conveyor line $v$ and ship loading line $w$.
+ $Para.alphaUVW$ $--$ Accessibility among reclaiming line $u$, conveyor line $v$ and ship loading line $w$.
 
 ​	${Para.Krr}$ $--$ Reclaimers $r$ and ${r}'$ are on the same reclaiming line.
 
-​	$ Para.DtPK $ $--$ The material transportation time from reclaiming stockpile $p$ to berth $k$, where the vessel is located.
+​	$Para.DtPK $ $--$ The material transportation time from reclaiming stockpile $p$ to berth $k$, where the vessel is located.
 
-​	$ Para.Vr$ $--$ Operational efficiency of reclaimer $r$.
+​	$Para.Vr$ $--$ Operational efficiency of reclaimer $r$.
 
-​	$ {Para.t\_arr}$ $--$ Arrival time at port of vessel $s$.
+​	${Para.t\_arr}$ $--$ Arrival time at port of vessel $s$.
 
-​	$ Para.t\_tr $ $--$ Turnaround time of vessel $s$.
+​	$Para.t\_tr $ $--$ Turnaround time of vessel $s$.
 
-​	$ Para.t\_un$ $--$ Casting-off time of vessel $s$.
+​	$Para.t\_un$ $--$ Casting-off time of vessel $s$.
 
-​	$ Para.t\_aux$ $--$ Auxiliary operation time of vessel $s$.
+​	$Para.t\_aux$ $--$ Auxiliary operation time of vessel $s$.
 
-​	$ Para.paiKK$ $--$ Travel time for shiploader from berth $k$ to ${k}'$.
+​	$Para.paiKK$ $--$ Travel time for shiploader from berth $k$ to ${k}'$.
 
 # 2. Execute the 'KMA.exe'
 
