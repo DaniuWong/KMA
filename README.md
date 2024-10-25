@@ -64,7 +64,7 @@ Put  defined dataPara.mat file as below into the 'input' folder
 
 ​	${Para.Krr}$ $--$ Reclaimers $r$ and ${r}'$ are on the same reclaiming line.
 
-​	$Para.DtPK $ $--$ The material transportation time from reclaiming stockpile $p$ to berth $k$, where the vessel is located.
+​	$Para.DtPK$ $--$ The material transportation time from reclaiming stockpile $p$ to berth $k$, where the vessel is located.
 
 ​	$Para.Vr$ $--$ Operational efficiency of reclaimer $r$.
 
