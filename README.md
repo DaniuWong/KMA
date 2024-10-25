@@ -82,7 +82,6 @@ Put  defined dataPara.mat file as below into the 'input' folder
 
 ​	The GUI interface displays program execution progress and final results: running time and best solution.
 
-![image-20241025125912138](ReadMe.assets/image-20241025125912138.png)
 
 # 3. Data Output
 
